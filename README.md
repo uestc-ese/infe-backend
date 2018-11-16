@@ -1,4 +1,4 @@
-# infe-backend
+# infe-backend [![Build Status](https://travis-ci.com/uestc-ese/infe-backend.svg?branch=master)](https://travis-ci.com/uestc-ese/infe-backend)
 
 Backend of infe, a notification system of uestc-ese.
 
