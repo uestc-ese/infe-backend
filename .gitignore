@@ -61,6 +61,8 @@ typings/
 .next
 
 # egg
+package-lock.json
+yarn.lock
 .idea/
 run/
 
