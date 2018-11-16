@@ -11,16 +11,16 @@ Backend of infe, a notification system of uestc-ese.
 ### 本地开发
 
 ```bash
-$ npm i
-$ npm run dev
+$ yarn
+$ yarn dev
 $ open http://localhost:7001/
 ```
 
 ### 部署
 
 ```bash
-$ npm start
-$ npm stop
+$ yarn start
+$ yarn stop
 ```
 
 ### 单元测试
@@ -31,9 +31,9 @@ $ npm stop
 
 ### 内置指令
 
-- 使用 `npm run lint` 来做代码风格检查。
-- 使用 `npm test` 来执行单元测试。
-- 使用 `npm run autod` 来自动检测依赖更新，详细参见 [autod](https://www.npmjs.com/package/autod) 。
+- 使用 `yarn lint` 来做代码风格检查。
+- 使用 `yarn test` 来执行单元测试。
+- 使用 `yarn autod` 来自动检测依赖更新，详细参见 [autod](https://www.npmjs.com/package/autod) 。
 
 
 [egg]: https://eggjs.org
